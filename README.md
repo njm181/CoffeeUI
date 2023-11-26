@@ -7,6 +7,7 @@ CoffeeUI - Compose, Hilt, Room, MVVM, Clean architecture
 <img src="https://github.com/njm181/CoffeeUI/assets/42520564/0a5fc947-e1a4-4e0f-953e-10e53c70a4b0" width="250" height="500">
 <img src="https://github.com/njm181/CoffeeUI/assets/42520564/c1388b20-a02b-4ad5-9efb-d26c8e8578a4" width="250" height="500">
 <img src="https://github.com/njm181/CoffeeUI/assets/42520564/10832036-71ff-4c6b-b753-07991f108f32" width="250" height="500">
+<img src="https://github.com/njm181/CoffeeUI/assets/42520564/17ea167d-19a7-4bdb-bffb-57f4e6e99205" width="250" height="500">
 
 
 
