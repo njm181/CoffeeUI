@@ -2,8 +2,12 @@
 CoffeeUI - Compose, Hilt, Room, MVVM, Clean architecture
 
 
-![1](https://github.com/njm181/CoffeeUI/assets/42520564/1a0b27a0-12b3-44f3-a9a5-76eec476c3dc){: width="50%"}
-![2](https://github.com/njm181/CoffeeUI/assets/42520564/ed793404-7dc5-41d2-b93f-153e74cf791f)
-![3](https://github.com/njm181/CoffeeUI/assets/42520564/6e7f6d4e-4f84-477a-a46e-6fda8d67dae4)
-![4](https://github.com/njm181/CoffeeUI/assets/42520564/48d050a6-1ef1-4d06-a71e-0f17fb1c4040)
-![5](https://github.com/njm181/CoffeeUI/assets/42520564/04ed8ada-ad2c-462e-ab30-4ce4572b4d85)
+<img src="https://github.com/njm181/CoffeeUI/assets/42520564/44ab7834-af92-44b2-87e6-8b0f27246c9f" width="250" height="500">
+<img src="https://github.com/njm181/CoffeeUI/assets/42520564/b05b2a3e-4e3d-4a84-b942-234747f76237" width="250" height="500">
+<img src="https://github.com/njm181/CoffeeUI/assets/42520564/0a5fc947-e1a4-4e0f-953e-10e53c70a4b0" width="250" height="500">
+<img src="https://github.com/njm181/CoffeeUI/assets/42520564/c1388b20-a02b-4ad5-9efb-d26c8e8578a4" width="250" height="500">
+<img src="https://github.com/njm181/CoffeeUI/assets/42520564/10832036-71ff-4c6b-b753-07991f108f32" width="250" height="500">
+
+
+
+
